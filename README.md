@@ -1,4 +1,4 @@
-Introduction: Systematic Long/Short Portfolio Management 1-3 months time horizon
+**Introduction: Systematic Long/Short Portfolio Management 1-3 months time horizon**
 
 Leading Indicator (Macro) Dashboard 
 
