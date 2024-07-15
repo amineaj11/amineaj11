@@ -11,7 +11,7 @@ Quantitative & Qualitative (Micro) Dashboard
 
 Currency Views - Fundamental Analysis
 
-![Fx1](https://github.com/user-attachments/assets/19586377-0293-42a8-81ad-78c830333d15)
+![Fx1](https://github.com/user-attachments/assets/e34c234f-6dfa-4a42-9575-a06855d8a9a7)
 ![fx2](https://github.com/user-attachments/assets/f10d105d-7bb1-4778-8ca3-eb679d68cf8d)
 
 Oil - Demand & Supply Factors
