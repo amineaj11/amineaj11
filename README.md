@@ -28,7 +28,7 @@ Iron Ore - Demand & Supply Factors
 
 Lumber - Demand & Supply Factors
 
-![Uploading Lumber.png…]()
+![Lumber](https://github.com/user-attachments/assets/e110c301-c86c-4044-86a4-3b4a90dbb78d)
 
 
 
